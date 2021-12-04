@@ -11,7 +11,7 @@
     <li>username=${member.username}</li>
     <li>age=${member.age}</li>
 </ul>
-<a href="index.html">메인</a>
+<a href="/index.html">메인</a>
 </body>
 </body>
 </html>
